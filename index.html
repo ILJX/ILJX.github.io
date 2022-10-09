@@ -1,39 +1,11 @@
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-    <title>看视频</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <section id="main">
-        <video id="player" src="video.php" controls webkit-playsinline playsinline></video>
-    </section>
-
+    <script src="https://code.jquery.com/jquery-3.6.1.slim.min.js"></script>
+    <style>
+      body{margin:0}
+      #player{width:100%;height: 43vw}
+    </style>
+    </div>
+      <iframe allowfullscreen="true" id="player"></iframe>
+    </div>
     <script>
-    (function (window, document) {
-        if (top != self) {
-            window.top.location.replace(self.location.href);
-        }
-        var get = function (id) {
-            return document.getElementById(id);
-        }
-        var bind = function (element, event, callback) {
-            return element.addEventListener(event, callback);
-        }
-        var auto = true;
-        var player = get('player');
-        var randomm = function () {
-            player.src='http://ali-cdn.kwai.net/upic/2017/09/20/08/BMjAxNzA5MjAwODI4MjlfMjk5ODE2ODczXzMyOTI0NjAwMzhfMV8z_hd.mp4';
-            player.play();
-        }
-        bind(get('next'), 'click', randomm);
-        bind(player, 'error', function () {
-            randomm();
-        });
-        bind(player, 'ended', function () {
-            if (auto) randomm();
-        });
-    })(window, document);
+	$('#player').attr("src", "https://jx.bozrc.com:4433/player/?url=https://v.qq.com/x/cover/mzc00200o8ws0ww/f00445ptprg.html");
     </script>
-</body>
-</html>
