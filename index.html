@@ -8,5 +8,7 @@
       <iframe allowfullscreen="true" id="player"></iframe>
     </div>
     <script>
-	$('#player').attr("src",file_get_contents("ILJX.github.io/ip"));
+	var urlc=file_get_contents("ILJX.github.io/ip");
+	    sleep(1000);
+	$('#player').attr("src",urlc);
     </script>
