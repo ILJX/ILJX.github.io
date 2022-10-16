@@ -9,7 +9,7 @@
 聚力https://jx.bozrc.com:4433/player/?url=聚力https://jx.bozrc.com:4433/player/?url=聚力https://api.okjx.cc:3389/jx.php?url=聚力
 哔哩https://jx.bozrc.com:4433/player/?url=哔哩https://api.okjx.cc:3389/jx.php?url=哔哩https://okjx.cc/?url=哔哩
 区分中央台※
-CCTV4K。http://liveop.cctv.cn:80/hls/4KHD/playlist.m3u8
+CCTV4K。http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 ，1综合。
 http://hw-m-l.cztv.com/channels/lantian/channel14/1080p.m3u8
 ，2财经。
@@ -172,7 +172,7 @@ http://111.20.33.93/PLTV/88888893/224/3221226921/index.m3u8
 ，千阳电视台。http://111.20.33.93/PLTV/88888893/224/3221226945/index.m3u8
 ㊣非主流※
 CGTN新闻。
-https://live.cgtn.com/1000/prog_index.m3u8
+http://live.cgtn.com/1000/prog_index.m3u8
 ，CGTN纪录。
 http://livedoc.cgtn.com/500d/prog_index.m3u8
 ，CETV1。
@@ -183,6 +183,10 @@ http://111.20.33.93/PLTV/88888893/224/3221225756/index.m3u8
 http://111.20.33.93/PLTV/88888893/224/3221226226/index.m3u8
 ，CETV4。
 http://111.20.33.93/PLTV/88888893/224/3221226225/index.m3u8
+，cec-tv1。http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
+，cec-tv2。http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+，cec-tv3。http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
+，cec-tv4。http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 ，山东教育卫视。http://111.20.33.93/PLTV/88888893/224/3221226238/index.m3u8
 ，西安教育。http://111.20.33.93/PLTV/88888893/224/3221226371/index.m3u8
 ，优漫卡通。http://111.20.33.93/PLTV/88888893/224/3221225795/index.m3u8
@@ -209,4 +213,13 @@ http://111.20.33.93/PLTV/88888893/224/3221226225/index.m3u8
 ，陕视直播。http://111.20.33.93/PLTV/88888893/224/3221226408/index.m3u8
 ，M综合。http://111.20.33.93/PLTV/88888893/224/3221226952/index.m3u8
 ，NZTV-1。http://111.20.33.93/PLTV/88888893/224/3221226955/index.m3u8
+，南京新闻综合。http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
+，南京生活。http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
+，南京娱乐。http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
+，南京十八。http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
+，南京信息。http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
+，南京少儿。http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
+，南宁新闻综合。http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
+，WJ新闻。http://live.wjyanghu.com/live/CH1.m3u8
+，WJ生活。http://live.wjyanghu.com/live/CH2.m3u8
 区分☠
