@@ -8,9 +8,8 @@
       <iframe allowfullscreen='true' id='player'></iframe>
     </div>
     <script>
-      $('#player').attr('src','https://www.1717yun.com/jx/ty.php?url=https://v.qq.com/x/cover/mzc002000y0q8uy/r0044rrsowz.html');
-        
-       var a=0;
+      $('#player').attr('src','https://www.1717yun.com/jx/ty.php?url=https://v.qq.com/x/cover/mzc002000y0q8uy/r0044rrsowz.html'); 
+       a=0;
       var get = function (id) {
         return document.getElementById(id);
       }
@@ -19,7 +18,7 @@
       }
       bind(player, 'ended', function (){
           a=a+1;
-          if(a=1){
+          if(a==1){
               $('#player').attr('src','https://www.1717yun.com/jx/ty.php?url=https://v.qq.com/x/cover/mzc00200fr1ry1o/i0044rfnqu2.html');
           }
          
