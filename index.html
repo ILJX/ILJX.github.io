@@ -5,17 +5,20 @@
       #player{width:99.7%;height:45vw}
     </style>
     </div>
-      <iframe allowfullscreen='true' id='player'></iframe>
+      <video allowfullscreen='true' id='player'></video>
     </div>
     <script>
-      $('#player').attr('src','https://www.1717yun.com/jx/ty.php?url=https://v.qq.com/x/cover/mzc002000y0q8uy/r0044rrsowz.html'); 
-       a=0;
+     
       var get = function (id) {
         return document.getElementById(id);
       }
       var bind = function (element, event, callback) {
         return element.addEventListener(event, callback);
       }
+      
+      var player = get('player');
+         $('#player').attr('src','https://www.1717yun.com/jx/ty.php?url=https://v.qq.com/x/cover/mzc002000y0q8uy/r0044rrsowz.html'); 
+       a=0;
       bind(player, 'ended', function (){
           a=a+1;
           if(a>0){
