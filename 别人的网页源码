@@ -1,0 +1,184 @@
+
+<!--https://iizny.com/api/api.php-->
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>晓成云解析系统-高清无广告视频解析接口</title>
+    <meta name="description" content="晓成云视频解析提供无广告解析接口搭建服务,全网通用解析支持爱奇艺、腾讯、优酷、芒果、乐视等60多个站...">
+    <meta name="keywords" content="晓成云解析,vip视频解析,一次解析,晓成云解析系统">
+	<meta http-equiv="Cache-Control" content="no-transform">
+	<meta name="viewport" content="width=device-width,initial-scale=1" />
+	<meta http-equiv="Cache-Control" content="no-siteapp">
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+	<meta name="apple-mobile-web-app-title" content="晓成云解析系统">
+    <link rel="apple-touch-icon" href="http://q1.qlogo.cn/g?b=qq&nk=1769503903&s=640">
+	<link rel="shortcut icon" href="http://q1.qlogo.cn/g?b=qq&nk=1769503903&s=640" type="image/x-icon">
+	<meta itemprop="image" content="http://q1.qlogo.cn/g?b=qq&nk=1769503903&s=640"><!-- 分享显示的缩略图-->   
+	<link rel="stylesheet" href="/css/base.css">
+	<link rel="stylesheet" href="/css/index.css" />
+	<script src="/js/core.js"></script>
+	<script language="Javascript">document.oncontextmenu=new Function("event.returnValue=false");document.onselectstart=new Function("event.returnValue=false");</script>
+</head>
+<body>
+    <div class="container">
+	    <div class="video-bg">
+		     <video muted data-autoplay loop="loop" autoplay="autoplay" src="https://svip.cygc.xyz/dsp.php" class="video-tvc" id="video-tvc" data-object-fit>抱歉，您的浏览器不支持内嵌视频</video></div>
+			     <div class="content">
+				     <header class="header claerFloat">
+			             <div class="header-left">
+			                 <a href="/"><img src="./images/log.jpg" alt="logo" style="height: 180px;"></a>
+			             </div> <!--http://v.nrzj.vip/video.php?_t=0.9//http://hc.baozi66.top:99/xjj.php?type=mp4//https://www.98dou.cn/tools/sp/1.php-->
+			 <div class="header-right">
+			 <ul class="header-links">
+			 <li class="header-links-item"><a href="/">主页</a></li>
+		    <li class="header-links-item"><a href="https://svip.cygc.xyz" target="_blank">资源下载</a></li>
+		    <li class="header-links-item"><a href="/user/login" target="_blank">去水印系统</a></li>
+			<li class="header-links-item"><a href="https://qm.qq.com/cgi-bin/qm/qr?k=ZP7jsspOM3uAy30Umu508w4qw1U6QyzT&jump_from=webapi" target="_blank">交流群</a></li>
+		    <li class="header-links-item"><a href="./service.html">支持</a></li>
+		    <li class="header-links-item"><a href="./service.html">免责声明</a></li>
+			 <li class="header-links-item hover"><a>会员中心</a>
+			     <div class="menu">
+				       <a href="/user/login">登录</a>
+				       <a href="/user/register/">注册</a>
+				 </div></li>
+			<li class="header-links-item"><div class="unmute"></div></li>
+			</ul>
+			</div>
+			</header>
+			<div class="middle clearFloat">
+       <div class="slogan">
+        <img src="slogan.png" alt="slogan">
+    </div>
+    <div class="btn-list">
+        <a class="btn-primary icon-QRcode">
+                 <img src="./images/1558451206517new.gif" alt="qrcode">
+    </a>
+    <div class="btn-primary">
+        <a class="btn-hover icon-qq btn-link" href="https://qm.qq.com/cgi-bin/qm/qr?k=ZP7jsspOM3uAy30Umu508w4qw1U6QyzT&jump_from=webapi" target="_blank"></a>
+    </div>
+    <div class="btn-primary">
+        <a class="btn-hover icon-emails btn-link" href="https://qm.qq.com/cgi-bin/qm/qr?k=ZP7jsspOM3uAy30Umu508w4qw1U6QyzT&jump_from=webapi" target="_blank"></a>
+				</div>
+				</div>
+				</div>
+	<footer class="footer">
+	     <nav class="nav-warpper"> 
+	         <span>    </span><a href="warpper/.html">         </a>  
+	     </nav> 
+    <div class="feedback-info">
+<nav class="nav-warpper"><span>|</span> <a href="https://www.iqiyi.com/" rel="nofollow">爱奇艺</a> <span>|</span><a href="https://v.qq.com/" rel="nofollow">腾讯视频</a> <span>|</span> <a href="https://www.youku.com/" rel="nofollow">优酷</a> <span>|</span> <a href="https://www.le.com/" rel="nofollow">乐视</a> <span>|</span> <a href="https://www.mgtv.com/" rel="nofollow">芒果TV</a> <span>|</span> <a href="https://film.sohu.com/" rel="nofollow">搜狐</a> <span>|</span><a href="https://www.bilibili.com/" rel="nofollow">哔哩哔哩</a> <span>|</span> <a href="https://www.douyin.com/" rel="nofollow">短视频平台</a> <span>|</span><a href="https://api.cygc.xyz/jiexi/?url=">播放器</a><span>|</span></nav>
+		   <p><span id="copyYear">2021</span>&nbsp;©&nbsp;晓成云解析系统&nbsp;&nbsp;|&nbsp;System stability&nbsp;|&nbsp;Super fast |&nbsp; No advertising&nbsp;解析接口</p>
+		   <p>本解析系統僅用於學習交流參考，請勿非法商用，如果有因為本站而導致您的權益受到損害，請與我們聯系協助解決相關問題。</p>
+    <div class="Icon-box">
+	             <svg t="1620356167087" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="7694" width="20" height="20"><path d="M778.24 163.84c-76.8-40.96-165.888-61.44-269.312-61.44s-192.512 20.48-269.312 61.44h-133.12l23.552 337.92c8.192 113.664 67.584 217.088 162.816 280.576l215.04 144.384 215.04-144.384c96.256-63.488 155.648-166.912 163.84-280.576l23.552-337.92H778.24z m47.104 333.824c-7.168 94.208-56.32 181.248-135.168 233.472l-181.248 120.832L327.68 731.136c-78.848-53.248-129.024-139.264-135.168-233.472L173.056 225.28h136.192v-26.624c58.368-23.552 124.928-34.816 199.68-34.816s141.312 12.288 199.68 34.816V225.28H844.8l-19.456 272.384z" fill="#0649D0" p-id="7695"></path><path d="M685.056 328.704v-46.08H455.68c2.048-4.096 6.144-9.216 11.264-15.36 5.12-7.168 9.216-12.288 11.264-15.36L419.84 240.64c-31.744 46.08-75.776 87.04-133.12 123.904 4.096 4.096 10.24 11.264 18.432 21.504l17.408 17.408c23.552-15.36 45.056-31.744 63.488-50.176 26.624 25.6 49.152 43.008 67.584 51.2-46.08 15.36-104.448 27.648-175.104 35.84 2.048 5.12 6.144 13.312 9.216 24.576 4.096 11.264 6.144 19.456 7.168 24.576l39.936-7.168v218.112H389.12V680.96h238.592v19.456h54.272V481.28H348.16c60.416-12.288 114.688-27.648 163.84-46.08 49.152 19.456 118.784 34.816 210.944 46.08 5.12-17.408 10.24-34.816 17.408-51.2-62.464-4.096-116.736-12.288-161.792-24.576 38.912-20.48 74.752-46.08 106.496-76.8z m-150.528 194.56h94.208v41.984h-94.208v-41.984z m0 78.848h94.208v41.984h-94.208v-41.984z m-144.384-78.848h94.208v41.984H390.144v-41.984z m0 78.848h94.208v41.984H390.144v-41.984zM424.96 326.656h182.272c-26.624 22.528-57.344 41.984-94.208 57.344-31.744-15.36-61.44-34.816-88.064-57.344z" fill="#0649D0" p-id="7696"></path></svg>
+	             <a target="_blank" href="/"></a> <span>&nbsp; &nbsp;&nbsp;:&nbsp;&nbsp;</span>
+	         </div>                                                                                                                                                      
+	         </div>                                                                                                                                                                                                                                                                                                  
+	</footer>
+	</div>
+	</div>	
+    <script type="text/javascript">
+    (function() {
+    $(function() {
+        $('#copyYear').text((new Date).getFullYear());
+    })
+    })();
+    </script>
+</body>	
+	<script>var video = $('#video-tvc')[0];
+    $('.unmute').click(function() {
+        if ($(this).hasClass('mute')) {
+            video.muted = true;
+        }
+        else {
+            video.muted = false;
+        }
+        $(this).toggleClass('mute')
+    })
+    </script>
+    <!--设备判断-->
+	<script type="text/javascript">
+    function browserRedirect() { 
+        var sUserAgent= navigator.userAgent.toLowerCase(); 
+        var bIsIpad= sUserAgent.match(/ipad/i) == "ipad"; 
+        var bIsIphoneOs= sUserAgent.match(/iphone os/i) == "iphone os"; 
+        var bIsMidp= sUserAgent.match(/midp/i) == "midp"; 
+        var bIsUc7= sUserAgent.match(/rv:1.2.3.4/i) == "rv:1.2.3.4"; 
+        var bIsUc= sUserAgent.match(/ucweb/i) == "ucweb"; 
+        var bIsAndroid= sUserAgent.match(/android/i) == "android"; 
+        var bIsCE= sUserAgent.match(/windows ce/i) == "windows ce"; 
+        var bIsWM= sUserAgent.match(/windows mobile/i) == "windows mobile"; 
+        var iurl = window.location.href;
+        var surl = iurl.substring(iurl.lastIndexOf('/'));
+        
+        if (bIsIpad || bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM) { 
+            window.location.href= '/user/login/'; 
+        } else { 
+     
+        } 
+    } 
+    browserRedirect(); 
+</script>
+<!--安全1开始-->
+<script type="text/javascript">
+        window.onload = function(){
+            document.onkeydown = function (){
+                var e = window.event || arguments[0];
+                //F12
+                if(e.keyCode == 123){
+                    return false;
+                //Ctrl+Shift+I
+                }else if((e.ctrlKey) && (e.shiftKey) && (e.keyCode == 73)){
+                    return false;
+                //Shift+F10
+                }else if((e.shiftKey) && (e.keyCode == 121)){
+                    return false;
+                //Ctrl+U
+                }else if((e.ctrlKey) && (e.keyCode == 85)){
+                    return false;
+                }
+            };
+            document.oncontextmenu = function (){
+                return false;
+            }
+        }
+    </script>
+<!--安全2开始-->
+<script type="text/javascript">
+		//判断F12审查元素
+function fuckyou() {
+	window.close(); //关闭当前窗口(防抽)
+	window.location = "https://svip.cygc.xyz"; //将当前窗口跳转置空白页
+}
+
+function ck() {
+	console.profile();
+	console.profileEnd();
+	//我们判断一下profiles里面有没有东西，如果有，肯定有人按F12了，没错！！
+	if(console.clear) {
+		console.clear()
+	};
+	if(typeof console.profiles == "object") {
+		return console.profiles.length > 0;
+	}
+}
+
+function hehe() {
+	if((window.console && (console.firebug || console.table && /firebug/i.test(console.table()))) || (typeof opera == 'object' && typeof opera.postError == 'function' && console.profile.length > 0)) {
+		fuckyou();
+	}
+	if(typeof console.profiles == "object" && console.profiles.length > 0) {
+		fuckyou();
+	}
+}
+hehe();
+window.onresize = function() {
+	if((window.outerHeight - window.innerHeight) > 200)
+		//判断当前窗口内页高度和窗口高度，如果差值大于200，那么呵呵
+		fuckyou();
+}
+</script>
+
+</html>
